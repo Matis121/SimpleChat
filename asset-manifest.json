@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SimpleChat/static/css/main.af6a998c.css",
+    "main.js": "/SimpleChat/static/js/main.4795dda8.js",
+    "index.html": "/SimpleChat/index.html",
+    "main.af6a998c.css.map": "/SimpleChat/static/css/main.af6a998c.css.map",
+    "main.4795dda8.js.map": "/SimpleChat/static/js/main.4795dda8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af6a998c.css",
+    "static/js/main.4795dda8.js"
+  ]
+}
